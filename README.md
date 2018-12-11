@@ -1,5 +1,5 @@
-#EEC731-Homework 7
-#Major Leagues - NBA Visualization 
+# EEC731-Homework 7
+# Major Leagues - NBA Visualization 
 
 Great stories and great visual effects
 1. Set up a data science project structure in a new git repository in your GitHub account
